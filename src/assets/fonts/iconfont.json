@@ -1,0 +1,219 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1267593",
+      "name": "日历",
+      "font_class": "02",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1601920",
+      "name": "员工",
+      "font_class": "yuangong",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "2479482",
+      "name": "竖线",
+      "font_class": "shuxian",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2584353",
+      "name": "员工",
+      "font_class": "yuangong1",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "2907162",
+      "name": "员工",
+      "font_class": "yuangong2",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "3080469",
+      "name": "短竖线",
+      "font_class": "icon-test",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "3756561",
+      "name": "学习计划",
+      "font_class": "xuexijihua-",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "5042250",
+      "name": "学习",
+      "font_class": "xuexi",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "5474844",
+      "name": "会议室",
+      "font_class": "huiyishi",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "5648956",
+      "name": "精彩时刻，星星，五角星",
+      "font_class": "jingcaishike",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6445002",
+      "name": "首页线-竖线",
+      "font_class": "shouyexian-shuxian",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6609857",
+      "name": "竖线",
+      "font_class": "shuxian1",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    },
+    {
+      "icon_id": "6941232",
+      "name": "竖线",
+      "font_class": "shuxian2",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "9700350",
+      "name": "学习",
+      "font_class": "xuexi1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "10463327",
+      "name": "竖线 (1)",
+      "font_class": "shuxian3",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "10583160",
+      "name": "导航",
+      "font_class": "daohang",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "11222358",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "12638923",
+      "name": "短竖线",
+      "font_class": "icon-test1",
+      "unicode": "e519",
+      "unicode_decimal": 58649
+    },
+    {
+      "icon_id": "12832685",
+      "name": "竖线",
+      "font_class": "shuxian4",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "13352175",
+      "name": "学习",
+      "font_class": "icon_schedule_study_",
+      "unicode": "e7e1",
+      "unicode_decimal": 59361
+    },
+    {
+      "icon_id": "14433084",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "14445737",
+      "name": "日历",
+      "font_class": "rili1",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "14870307",
+      "name": "会议",
+      "font_class": "huiyi",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "15055282",
+      "name": "多人",
+      "font_class": "duoren",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "15685573",
+      "name": "箭头_列表展开",
+      "font_class": "jiantou_liebiaozhankai",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "15685574",
+      "name": "箭头_列表收起",
+      "font_class": "jiantou_liebiaoshouqi",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "16229614",
+      "name": "短竖线",
+      "font_class": "duanshuxian",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "17605447",
+      "name": "星级",
+      "font_class": "xingji",
+      "unicode": "e812",
+      "unicode_decimal": 59410
+    },
+    {
+      "icon_id": "17719679",
+      "name": "会议",
+      "font_class": "huiyi1",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "18516401",
+      "name": "竖线",
+      "font_class": "shuxian5",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    }
+  ]
+}
